@@ -1,0 +1,11 @@
+*
+!.gitignore
+!/*/
+!/.scalafmt.conf
+!/Makefile
+!/README.md
+!/build.sbt
+!/build.sc
+!/project/*
+!/.mill-version
+!/src/**
